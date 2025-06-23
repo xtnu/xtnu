@@ -3,7 +3,7 @@
 
 ![](https://profile-counter.glitch.me/ix520/count.svg)
 
-![](https://npi.lazy52.com/api/tj/?name=xzzmoe)
+![](http://npi.lazy52.com/api/tj/?name=xzzmoe)
 
 ![](https://xzzmoe.github.io/static/svg/snake-Light.svg)
 
